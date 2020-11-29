@@ -1,2 +1,2 @@
-# alura-docker-casa-do-codigo
-Aplicação Docker - Node
+# alura-docker
+Projeto do curso de Docker
